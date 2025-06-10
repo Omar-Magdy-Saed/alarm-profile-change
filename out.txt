@@ -1,0 +1,53 @@
+spawn ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null cli@10.127.245.129
+Warning: Permanently added '10.127.245.129' (RSA) to the list of known hosts.
+cli@10.127.245.129's password: 
+Linux EC1830-81-1 2.6.10_mvlcge401-8555-cplab #8 Thu Jun 7 13:39:42 EDT 2018 ppc GNU/Linux
+
+Welcome to MontaVista(R) Linux(R) Carrier Grade Edition 4.0 (0600995).
+
+Last login: Thu Jun 30 05:57:57 2022 from 10.127.245.215
+Linux EC1830-81-1 2.6.10_mvlcge401-8555-cplab #8 Thu Jun 7 13:39:42 EDT 2018 ppc GNU/Linux
+
+Welcome to MontaVista(R) Linux(R) Carrier Grade Edition 4.0 (0600995).
+
+
+Username: admin
+Password: 
+Last Login: Thu Jun 30 05:57:57 2022 from ssh_10.127.245.215:51322
+
+Security compliance warning - Please check password status! 
+
+Nokia 1830 PSS, WAVELENGTH TRACKER
+(c) 2018 Nokia.  All rights reserved.
+
+   Legal Notices  applicable to  any  software   distributed  alone or in
+   connection with the product to which this text pertains, are available
+   at  NOS (Nokia Online Services)  with "1830  Photonic  Service  Switch
+   (PSS) Software Legal Notice Details".
+
+   This  system   is  restricted  solely to  Nokia  authorized  users for
+   legitimate    business  purposes   only.    The actual   or  attempted
+   unauthorized  access, use, or modification of this system  is strictly
+   prohibited  by  Nokia.  Unauthorized  users  are  subject  to  Company
+   disciplinary   proceedings and/or  criminal and  civil penalties under
+   state, federal, or other applicable domestic and foreign laws.  Use of
+   this  system may  be monitored  and  recorded for  administrative  and
+   security reasons.  Anyone accessing this system expressly  consents to
+   such  monitoring and is advised  that if  monitoring  reveals possible
+   evidence of criminal activity, Nokia may provide  the evidence of such
+   activity to law  enforcement  officials.   All  users must comply with
+   Nokia   Corporate  Instructions  regarding  the  protection  of  Nokia
+   information assets.
+
+Do you acknowledge? (Y/N)?Y
+
+Alarm Status:  Critical-35   Major-19   Minor-7 Warning-10
+
+CLD_DTL-1# sh alm prfl none eqpt cardinit
+
+Alarm Severity : notalarmed
+
+CLD_DTL-1# mm 
+CLD_DTL-1# logout
+Logging out....
+Connection to 10.127.245.129 closed.

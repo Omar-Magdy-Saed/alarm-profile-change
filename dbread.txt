@@ -1,0 +1,2 @@
+100 CLD_DTL-1 1830PSS-PHN 11.0 TL1,10.127.245.129,,,, SupArea1 0 22 supervised enabled Sydney aligned EML_100_SNA
+101 CLD_DTL-2 1830PSS-PHN 11.0 TL1,10.127.245.129,,,, SupArea1 0 22 supervised enabled Sydney aligned EML_101_SNA

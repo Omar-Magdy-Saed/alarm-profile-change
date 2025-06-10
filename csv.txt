@@ -1,0 +1,3 @@
+node,,,ip,,,cardinit asap status,,
+CLD_DTL-1,CLD_DTL-2,,,10.127.245.129,,,notalarmed,,
+CLD_DTL-1,CLD_DTL-2,,,10.127.245.129,,,notalarmed,,
